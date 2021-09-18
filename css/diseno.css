@@ -3,6 +3,7 @@ header{
     align-content: center;
     justify-content: center;
     text-align: center;
+    color: white;
 }
 
 textarea{
@@ -13,11 +14,20 @@ textarea{
     font-size: 30px;
 	justify-content: justify;
 	font-family: Times New Roman,serif;
+    color: white;
 }
 
 .boxi{
 	border: 2px solid red;
 	border-radius: 3px;
+}
+
+.sub{
+    color: white;
+}
+
+.cont_perfil{
+    color: white;
 }
 body{
     background-color: black;
